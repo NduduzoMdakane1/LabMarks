@@ -1,5 +1,6 @@
 # LabMarks
-Python code for automating lab mark analysis from Excel files
+
+Please download pictures attached for the BEFORE and the AFTER to see how the code works.
 
 This code automates the analysis of student lab results stored in an Excel file.
 
@@ -14,5 +15,5 @@ This code saves time and optimizes accuracy when marking multiple chemistry labs
 Files Included
 
 - `labmarks.py` – Main Python script
-- `lab Marks.xlsx` – Sample input Excel file with raw lab marks
-- `Analyzed Lab Marks.xlsx` – Output file with calculated results
+- `lab Marks.xlsx` and a screenshot – Sample input Excel file with raw lab marks
+- `Analyzed Lab Marks.xlsx` and a screenshot – Output file with calculated results
